@@ -1,6 +1,6 @@
 # Spring Boot and RabbitMQ
 
-Exploring RabbitMQ basics in Spring Boot. This repository demonstrates how to route and process messages using custom exchanges and multiple queues, featuring both a message publisher and a consumer listening for `premium` and `standard` order types.
+Exploring RabbitMQ basics in Spring Boot. This repository demonstrates how to route and process messages using custom exchanges and multiple queues. It includes a publisher and a consumer that handle `premium` and `standard` orders.
 
 ## Features
 
