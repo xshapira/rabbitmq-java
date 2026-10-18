@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: rabbitmq-consumer
+    
+server:
+  port: 8081

@@ -1,0 +1,11 @@
+package com.xshapira.rabbitmq_publisher;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RabbitmqJavaApplicationTests {
+
+  @Test
+  void contextLoads() {}
+}
